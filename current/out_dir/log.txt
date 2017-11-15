@@ -1,0 +1,10 @@
+epoch     iter    rate   |  top_cls_loss   reg_loss   |  fuse_cls_loss  reg_loss  |  
+-------------------------------------------------------------------------------------
+epoch     iter    rate   |  top_cls_loss   reg_loss   |  fuse_cls_loss  reg_loss  |  
+-------------------------------------------------------------------------------------
+epoch     iter    rate   |  top_cls_loss   reg_loss   |  fuse_cls_loss  reg_loss  |  
+-------------------------------------------------------------------------------------
+epoch     iter    rate   |  top_cls_loss   reg_loss   |  fuse_cls_loss  reg_loss  |  
+-------------------------------------------------------------------------------------
+epoch     iter    rate   |  top_cls_loss   reg_loss   |  fuse_cls_loss  reg_loss  |  
+-------------------------------------------------------------------------------------
